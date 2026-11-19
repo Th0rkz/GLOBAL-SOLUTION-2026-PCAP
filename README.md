@@ -61,7 +61,7 @@ A referência é a quantidade estimada, pré-estabelecida, de passageiros que co
 
 ---
 
-## 📐 Regras de classificação
+##  Regras de classificação
 
 **Premissas da simulação**
 
@@ -82,9 +82,9 @@ A referência é a quantidade estimada, pré-estabelecida, de passageiros que co
 
 | Pontuação total | Prioridade |
 |:---------------:|:----------:|
-| 6 ou mais | 🔴 **ALTA** |
-| 3 a 5 | 🟡 **MÉDIA** |
-| 0 a 2 | 🟢 **BAIXA** |
+| 6 ou mais |  **ALTA** |
+| 3 a 5 |  **MÉDIA** |
+| 0 a 2 |  **BAIXA** |
 
 **Recomendação de ação**
 
@@ -95,7 +95,7 @@ A referência é a quantidade estimada, pré-estabelecida, de passageiros que co
 
 ---
 
-## 📊 Descrição dos resultados
+## Descrição dos resultados
 
 A cada cadastro, o programa informa a prioridade do ponto e a recomendação para a frota.
 
