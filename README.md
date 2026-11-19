@@ -1,42 +1,23 @@
-# 🚌 BUS NOW — Citizen Tech
+# BUS NOW — Citizen Tech
 
 **Faculdade de Informática e Administração Paulista (FIAP)**
 Ciências da Computação — Pensamento Computacional e Automação em Python
 **Global Solution 2026** — São Paulo
-
 ---
 
-## 👥 Integrantes
-
+##  Integrantes
 | Nome | RM |
 |------|----|
 | Thor Correa Neto | 575726 |
 | Tales de Souza Jardim | 575080 |
-
 ---
 
-## 🎯 Problema escolhido
-
-O projeto **BUS NOW** busca solucionar problemas relacionados à **superlotação e à distribuição inadequada de ônibus** no transporte público.
-
-O público beneficiado é composto principalmente por:
-
-- **Passageiros** que utilizam o transporte coletivo;
-- **Profissionais** responsáveis pelo gerenciamento e pela distribuição da frota.
-
-**Objetivo do programa:** monitorar a quantidade de passageiros em diferentes pontos, analisar a demanda em relação à capacidade dos ônibus e identificar locais que necessitam de reforço na frota, contribuindo para um transporte mais eficiente e organizado.
-
+## Introdução
+O projeto BUS NOW busca solucionar a superlotação e a distribuição inadequada de ônibus no transporte público, problemas que afetam o dia a dia de quem depende do transporte coletivo. Seu público beneficiado é formado principalmente pelos passageiros e pelos profissionais responsáveis pelo gerenciamento e pela distribuição da frota. O objetivo do programa, desenvolvido em Python, é monitorar a quantidade de pessoas em diferentes pontos, comparar a demanda com a capacidade dos ônibus e classificar a prioridade de cada local (alta, média ou baixa), indicando onde é necessário reforçar a frota. O projeto está relacionado ao ODS 11 – Cidades e Comunidades Sustentáveis, da ONU, que trata de sistemas de transporte seguros, acessíveis e sustentáveis, contribuindo para a melhoria da mobilidade urbana e da qualidade de vida da população.
 ---
 
-## 🌍 ODS relacionado
-
-**ODS 11 — Cidades e Comunidades Sustentáveis (ONU)**, especialmente no que diz respeito à promoção de sistemas de transporte seguros, acessíveis e sustentáveis. O BUS NOW pretende contribuir para a melhoria da mobilidade urbana e da qualidade de vida da população.
-
----
-
-## ▶️ Instruções de execução
-
-**Requisitos:** Python 3 instalado. Não há bibliotecas externas.
+##  Instruções de execução
+Requisitos: Python 3 instalado. Não há bibliotecas externas.
 
 ```bash
 python main.py
@@ -53,7 +34,6 @@ Menu principal:
 ```
 
 ### Cadastrar dados (opção 1)
-
 O programa solicita, nesta ordem:
 
 1. **Ponto** (1 a 4);
